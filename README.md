@@ -12,7 +12,7 @@ Hello! Below you find materials in which we explore the use of **language models
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### Part 2: Language Models as Research Assistant
+### Part 2: Language Models as Research Assistants
 
 <a target="_blank" href="https://colab.research.google.com/github/kasparvonbeelen/uga-llm-workshop/blob/main/2_Poking_LLMs.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
